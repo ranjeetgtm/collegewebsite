@@ -4,8 +4,8 @@ function getInputValue(){
     let a=1;
 
     if(inputVal==1){
-        document.getElementById("demo").innerHTML ="Sanjay Chudali";
-        document.getElementById("demo1").innerHTML ="40000";
+        document.getElementById("demo").innerHTML ="Ranjeet Gautam";
+        document.getElementById("demo1").innerHTML ="clear";
     }
     else if(inputVal==2)
     {
@@ -153,8 +153,8 @@ function getInputValue(){
     }
      else if(inputVal==30)
     {
-        document.getElementById("demo").innerHTML ="Ranjeet Gautam";
-        document.getElementById("demo1").innerHTML ="0"; 
+        document.getElementById("demo").innerHTML ="sanjay Gautam";
+        document.getElementById("demo1").innerHTML ="1200"; 
     }
     else if(inputVal==31)
     {
