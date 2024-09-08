@@ -153,7 +153,7 @@ function getInputValue(){
     }
      else if(inputVal==30)
     {
-        document.getElementById("demo").innerHTML ="sanjay Gautam";
+        document.getElementById("demo").innerHTML ="sanjay chudali";
         document.getElementById("demo1").innerHTML ="1200"; 
     }
     else if(inputVal==31)
